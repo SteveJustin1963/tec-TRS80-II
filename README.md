@@ -1,2 +1,2 @@
-# tec-TRS80-II-TEC-1
-TRS80-II-TEC-1 bridge
+# tec-TRS80-II
+TRS80-II-TEC-1 bridge experiments
